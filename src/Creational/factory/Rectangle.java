@@ -1,4 +1,4 @@
-package creational.factory;
+package Creational.factory;
 
 public class Rectangle implements Shape {
     @Override
