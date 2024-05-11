@@ -1,6 +1,7 @@
 package SolidPrinciplesOfOops.OpenClosedPrinciple.Problem;
 
-import CoreJava.SolidPrinciplesOfOops.SingleResponsibilityPrinciple.Solution.Invoice;
+
+import SolidPrinciplesOfOops.SingleResponsibilityPrinciple.Problem.Invoice;
 
 /**
  * O - Open/Closed Principle

@@ -1,6 +1,6 @@
 package SolidPrinciplesOfOops.OpenClosedPrinciple.Solution;
 
-import CoreJava.SolidPrinciplesOfOops.SingleResponsibilityPrinciple.Solution.Invoice;
+import SolidPrinciplesOfOops.SingleResponsibilityPrinciple.Solution.Invoice;
 
 public class DatabaseInvoiceDao implements InvoiceDao{
     @Override
